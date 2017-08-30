@@ -1,0 +1,12 @@
+The three most popular articles of all time are:
+1. Candidate is jerk, alleges rival - 338647views
+2. Bears love berries, alleges bear - 253801views, and
+3. Bad things gone, say good people - 170098views
+
+The three most popular article authors of all time are:
+1. Ursula La Multa - 507594views
+2. Rudolf von Treppenwitz - 423457views, and
+3. Anonymous Contributor - 170098views
+
+Days with more than 1% of requests leading to errors:
+17 July 2016 - 2.26%
